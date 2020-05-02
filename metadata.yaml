@@ -1,0 +1,33 @@
+_repo: Adventures-in-Silence_61918
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collingwood, Herbert W. (Herbert Winslow)
+    alias: Collingwood, Herbert Winslow
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '33203'
+    url: http://www.gutenberg.org/2009/agents/33203
+description: ''
+gutenberg_issued: '2020-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61918'
+  lccn: '23016395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RF'
+- !lcsh 'Deafness'
+- GITenberg
+tableOfContents: Introduction -- Terrors that are imaginary -- On the road to silence
+  -- Head noises and subjective audition -- Facing the hard situation -- A heart for
+  any fate -- Memories of early life -- Experimenting with the deaf man -- Companions
+  in trouble -- The approach to silence -- Mixing word meanings -- The whispering
+  wire -- "No music in himself" -- Silence not always golden -- Cases of mistaken
+  identity -- All in a lifetime -- "Such tricks hath strong imagination" -- "The terror
+  that flieth by night" -- "Grouch" or gentleman.
+title: Adventures in Silence
+url: http://www.gutenberg.org/ebooks/61918
